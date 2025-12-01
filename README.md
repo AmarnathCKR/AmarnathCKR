@@ -26,16 +26,8 @@
 <div align="center">
 
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=amarnathckr&show_icons=true&locale=en&layout=compact" 
+    src="https://github-readme-stats.vercel.app/api?username=amarnathckr" 
     alt="amarnathckr" 
-    height="200"
-  />
-
-  <br/><br/>
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=amarnathckr&show_icons=true&locale=en" 
-    alt="amarnathckr-stats" 
     height="200"
   />
 
