@@ -24,7 +24,7 @@
 <p align="center">
   <img 
     align="center" 
-    src="https://github-readme-stats.vercel.app/api?username=amarnathckr&show_icons=true&locale=en" 
+    src="https://github-readme-stats.vercel.app/api?username=AmarnathCKR&show_icons=true&locale=en" 
     alt="amarnathckr" 
   />
 </p>
