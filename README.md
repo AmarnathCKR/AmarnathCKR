@@ -24,19 +24,18 @@
 <div align="center">
 
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=amarnathckr&layout=compact&show_icons=true" 
-    alt="top-langs"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=amarnathckr&layout=compact&show_icons=true" 
     height="200"
   />
 
   <br/><br/>
 
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=amarnathckr&show_icons=true" 
-    alt="github-stats"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=amarnathckr&show_icons=true" 
     height="200"
   />
 
 </div>
+
 
 
